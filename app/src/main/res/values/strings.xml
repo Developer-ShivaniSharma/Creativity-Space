@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Creativity Space</string>
+    <string name="team_work">Many hands make light work</string>
+    <string name="team_work_author">By Jhon Wood</string>
+    <string name="work">If you want to go far, go together</string>
+    <string name="work_author">By African Proverb</string>
+    <string name="work_together">Together,we are an ocean</string>
+    <string name="work_together_author">By Satoro</string>
+</resources>
